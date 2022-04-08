@@ -1,2 +1,2 @@
-#Get this Website Blocked
-https://picklekid31.github.io
+Shut up and visit the website
+https://Lhinger.github.io
