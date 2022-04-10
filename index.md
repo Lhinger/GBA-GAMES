@@ -1,14 +1,13 @@
 
+               # Lhinger was here
+               
+               # Mach python was here
+                    
+               # What GBA games do you like the most?
+                
+                 Don't tell you teachers. You get unblocked games, just play and be grateful.
 <html>
     <head>
-         Lhinger's GBA games
-        <body style="color: black; background-color: white; font-family:calibri"> 
-            <font face="calibri">
-                <h3>Lhinger was here</h3>
-                <h3>Mach python was here</h3>
-                    <h3>What GBA games do you like the most?</h3>
-                <p>Welcome to the website.</p>
-                 Don't tell you teachers. You get unblocked games, just play and be grateful.
                 <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/8744.png">
                 <Ol><li><a href="picklekid31.github.io">Weebly Website</a></li>
                 <li><a href="launcher.html#advancewars">Advance Wars</a></li>
