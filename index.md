@@ -1,14 +1,14 @@
 
 <html>
     <head>
-        ## Lhinger's GBA games
+         Lhinger's GBA games
         <body style="color: black; background-color: white; font-family:calibri"> 
             <font face="calibri">
                 <h3>Lhinger was here</h3>
                 <h3>Mach python was here</h3>
                     <h3>What GBA games do you like the most?</h3>
                 <p>Welcome to the website.</p>
-                # Don't tell you teachers. You get unblocked games, just play and be grateful.
+                 Don't tell you teachers. You get unblocked games, just play and be grateful.
                 <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/8744.png">
                 <Ol><li><a href="picklekid31.github.io">Weebly Website</a></li>
                 <li><a href="launcher.html#advancewars">Advance Wars</a></li>
@@ -103,7 +103,7 @@
             <li><a href="./launcher.html#warioland4">Wario Land 4</a></li>
             <li><a href="./launcher.html#wario_ware">Wario Ware Inc</a></li>
             <li><a href="./launcher.html#zelda_past">The Legend of Zelda: A Link to the Past</a></li>
-            <li><a href="./launcher.html#zelda_minish">The Legend of Zelda: The Minish Cap</a></li></ol>
+            <li><a href="./launcher.html#zelda_minish">The Legend of Zelda: The Minish Cap</a></li>
                 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
