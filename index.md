@@ -1,1 +1,1 @@
-Use the link:
+Use the link: https://lhinger.github.io/GBA-GAMES/
