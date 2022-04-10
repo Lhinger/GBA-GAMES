@@ -1,9 +1,8 @@
-
-               # Lhinger was here
+# Lhinger was here
                
-               # Mach python was here
+# Mach python was here
                     
-               # What GBA games do you like the most?
+# What GBA games do you like the most?
                 
                  Don't tell you teachers. You get unblocked games, just play and be grateful.
 <html>
