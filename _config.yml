@@ -1,7 +1,7 @@
 title: Lhinger's GBA games
 description: Keep this between you and me
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
