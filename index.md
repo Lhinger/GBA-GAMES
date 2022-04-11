@@ -6,7 +6,9 @@
 # What GBA games do you like the most?
                 
                  Don't tell your teachers. You get unblocked games, just play and be grateful.
+
 [Homepage](https://lhinger.github.io/)
+
 <html>
     <head>
                 <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/8744.png">
