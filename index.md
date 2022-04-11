@@ -25,7 +25,6 @@
                 <li><a href="launcher.html#croket4">Croket! 4 - Bank no Mori no Mamorigami</a></li>
                 <li><a href="launcher.html#digimon_racing">Digimon Racing</a></li>
                  <li><a href="launcher.html#doom">Doom</a></li>
-                 <li><a href="launcher.html#doom_II">Doom II</a></li>
                 <li><a href="launcher.html#dbz_supersonic">Dragon Ball Z - Supersonic Warriors</a></li>
                 <li><a href="launcher.html#drilldozer">Drill Dozer</a></li>
                   <li><a href="launcher.html#earthwormjim">Earthworm Jim</a></li>
