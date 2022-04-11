@@ -10,7 +10,6 @@
 <html>
     <head>
                 <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/8744.png">
-                <Ol><li><a href="picklekid31.github.io">Weebly Website</a></li>
                 <li><a href="launcher.html#advancewars">Advance Wars</a></li>
                 <li><a href="launcher.html#advancewars2">Advance Wars 2</a></li>
                 <li><a href="launcher.html#aladdin">Aladdin</a></li>
