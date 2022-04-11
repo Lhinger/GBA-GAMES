@@ -12,7 +12,7 @@
 <html>
     <head>
                 <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/8744.png">
-                <li><a href="launcher.html#advancewars">Advance Wars</a></li>
+                <Ol><li><a href="launcher.html#advancewars">Advance Wars</a></li>
                 <li><a href="launcher.html#advancewars2">Advance Wars 2</a></li>
                 <li><a href="launcher.html#aladdin">Aladdin</a></li>
                 <li><a href="launcher.html#alienhominid">Alien Hominid</a></li>
