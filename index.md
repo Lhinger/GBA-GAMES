@@ -3,7 +3,7 @@
                
 # Mach python was here
                     
-# What GBA games do you like the most?
+# Comment what GBA games you want added to the list below!
                 
                  Don't tell your teachers. You get unblocked games, just play and be grateful.
 
