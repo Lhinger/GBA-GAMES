@@ -28,7 +28,7 @@
                  <li><a href="launcher.html#doom_II">Doom II</a></li>
                 <li><a href="launcher.html#dbz_supersonic">Dragon Ball Z - Supersonic Warriors</a></li>
                 <li><a href="launcher.html#drilldozer">Drill Dozer</a></li>
-                <li><a href="launcher.html#earthwormjim">Earthworm Jim</li>
+                  <li><a href="launcher.html#earthwormjim">Earthworm Jim</a></li>
                 <li><a href="launcher.html#earthwormjim2">Earthworm Jim 2</a></li>
                 <li><a href="launcher.html#ff1and2">Final Fantasy 1 & 2 Advance</a></li>
                  <li><a href="./launcher.html#ff4S">Final Fantasy IV Advance (Sound Restoration Mod)</a></li>
